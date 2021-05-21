@@ -1,0 +1,146 @@
+#landing {
+    height:100vh;
+    background-image:url("landing.png");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+
+}
+
+#banner {
+    background-color:red;
+    height:15%;
+    display:flex;
+    align-items:center;
+    
+}
+#navigation {
+    width:80%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+#logo {
+    background-image:url("logo.png");
+    background-size:cover;
+
+}
+#part2 {
+    height:85%;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+
+    
+}
+#contenu {
+    width:80%;
+    display:flex;
+    flex-direction:column;
+    
+    background-color:grey;
+}
+
+h1 {
+    text-align:center;
+    color:white;
+
+}
+#section2 {
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#contenu2 {
+    height:80%;
+    width:80%;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+
+}
+#ligne1 {
+    height:45%;
+    display:flex;
+    justify-content:space-around;
+}
+#ligne2 {
+    height:45%;
+    display:flex;
+    justify-content:space-around;
+}
+.cardstuff {
+    height:100%;
+    width:20%;
+    border:1px solid black;
+}
+#img1 {
+    background-image:url("+.png");
+    background-size:contain;
+    background-position:center;
+    background-repeat:no-repeat;
+
+}
+#img2 {
+    background-image:url("redbull.jpg");
+    background-size:contain;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#img3 {
+    background-image:url("netflix.png");
+    background-size:contain;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#img4 {
+    background-image:url("deezer.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#img5 {
+    background-image:url("redbull.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#section3 {
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color:lightgrey;
+}
+.stats {
+    text-align:center;
+    font-size:3em;
+
+}
+#duTexte {
+    text-align:center;
+    display:flex;
+    justify-content:center;
+
+}
+#text_contenu {
+    width:30%;
+}
+#section4 {
+    height:50vh;
+
+}
+#new_line {
+    height:20%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+h2 {
+    margin:0;
+   
+}
+
